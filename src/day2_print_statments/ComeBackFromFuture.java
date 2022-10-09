@@ -4,7 +4,6 @@ import day49_encapsulation.AccessModifier;
 
 public class ComeBackFromFuture {
 
-
     public static void main(String[] args) {
 
         AccessModifier obj = new AccessModifier();
