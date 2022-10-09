@@ -1,4 +1,4 @@
-package day2_print_statments;
+package day02_print_statments;
 
 public class HelloWorld {
     public static void main(String[] args) {

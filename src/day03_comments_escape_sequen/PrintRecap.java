@@ -1,4 +1,4 @@
-package day3_comments_escape_sequen;
+package day03_comments_escape_sequen;
 
 public class PrintRecap {
     public static void main(String[] args) {
